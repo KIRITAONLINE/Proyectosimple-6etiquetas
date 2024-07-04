@@ -1,0 +1,8 @@
+Explicación adicional:
+Estructura de carpetas:
+assets/: Carpeta principal que contiene recursos como CSS, imágenes, y JavaScript.
+assets/css/: Carpeta para archivos CSS.
+assets/img/: Carpeta para imágenes relacionadas con el contenido de la página.
+Actualización en index.html:
+<link rel="stylesheet" href="assets/css/styles.css">: Enlaza el archivo CSS que está dentro de la carpeta css en assets.
+<img src="assets/img/imagen-ejemplo.jpg" alt="Descripción de la imagen">: Inserta una imagen ubicada en la carpeta img dentro de assets
