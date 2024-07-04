@@ -1,0 +1,15 @@
+Explicación de las etiquetas utilizadas:
+<!DOCTYPE html>: Declara que el documento sigue la especificación HTML5.
+<html lang="es">: Define el idioma principal del documento.
+<head>: Contiene metadatos y enlaces a recursos externos.
+<meta charset="UTF-8">: Especifica la codificación de caracteres del documento.
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Controla la escala y el ancho del viewport para dispositivos móviles.
+<title>: Define el título de la página que aparecerá en la pestaña del navegador.
+<link rel="stylesheet" href="css/styles.css">: Enlaza el archivo CSS externo para estilos.
+<body>: Contiene todo el contenido visible de la página.
+<header>: Encabezado de la página.
+<nav>: Sección de navegación.
+<main>: Contenido principal de la página.
+<section>: Agrupa contenido temáticamente.
+<footer>: Pie de página.
+<script src="js/script.js"></script>: Enlaza el archivo JavaScript externo para interactividad.
