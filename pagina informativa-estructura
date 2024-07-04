@@ -1,0 +1,7 @@
+mi-proyecto/
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   └── img/
+│       └── imagen-ejemplo.jpg
+└── index.html
