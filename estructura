@@ -1,0 +1,6 @@
+mi-proyecto/
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+└── index.html
